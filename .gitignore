@@ -1,7 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/microsoftoffice,libreoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=microsoftoffice,libreoffice
 
-### LibreOffice ###
 # LibreOffice locks
 .~lock.*#
 
